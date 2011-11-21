@@ -257,11 +257,11 @@ body {
 
 li {list-style-type: none;}
 
-/*.ie6 li, .ie7 li {list-style-type: disc;}
-*/
+.ie6 li, .ie7 li {list-style-type: disc;}
 
-/*li:before {content: "•"; font-family: arial, sans-serif; color: #96B8B6; float: left; width: 1em; margin-left: -1em;}
-*/
+
+li:before {content: "•"; font-family: arial, sans-serif; color: #96B8B6; float: left; width: 1em; margin-left: -1em;}
+
 
 
 h1, h2, h3, h4, h5, h6 {
